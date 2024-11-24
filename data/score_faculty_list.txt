@@ -1,0 +1,1288 @@
+Emp ID
+Faculty Name
+Area of specialization
+Mobile No.
+E-mail  ID
+Open Hours
+Cabin Number
+
+10183
+Dr. Sumathy S
+Machine Learning, Deep Learning , Cloud Computing.
+9865481293
+ssumathy@vit.ac.in
+WEDNESDAY, 11:00 AM - 01:00 PM, THURSDAY,11:00 AM - 01:00 PM
+SJT-511-A29
+
+10367
+Dr. Dhinesh Babu L.D
+Big Data, Machine Learning, Online Social Networks, Recommendation Systems, Sentiment Analysis.
+9486939119
+lddhineshbabu@vit.ac.in
+THURSDAY, 09:00 AM - 10:00 AM, MONDAY, 12:00 PM - 01:00 PM
+SJTANX-201-H
+
+10288
+Dr. Aswani Kumar Cherukuri
+Machine Learning, Network Security, Quantum Computing
+9894132595
+aswani@vit.ac.in
+MONDAY, 03:00 PM - 04:00 PM, WEDNESDAY, 11:00 AM - 01:00 PM, FRIDAY, 12:00 PM - 01:00 PM
+SJT - 217A
+
+10134
+Dr. Bimal Kumar Ray
+Computer Vision, Graphics, Image Processing
+9442551133
+bimalkumarray@vit.ac.in
+TUESDAY, 10:45 AM - 12:45 PM, FRIDAY, 10:45 AM - 12:45 PM
+No information
+
+10362
+Dr. Daphne Lopez
+Big Data Analytics, Deep Learning, Cloud Computing
+9486186725
+daphnelopez@vit.ac.in
+No information
+SJT-101C
+
+10414
+Dr. Ganesan K
+Image / Video Processing , Decision Support Systems, Cryptography, Embedded Systems
+9566656763
+kganesan@vit.ac.in
+No information
+MGB - F-139
+
+13587
+Dr. Neelu Khare
+Deep Learning, Data Science, Machine Learning, Soft Computing
+8220819824
+neelu.khare@vit.ac.in
+MONDAY, 09:30 AM - 10:30 AM
+SJT-116-A13
+
+14786
+Dr. Shantharajah S.P
+Network Security, Knowledge Support Systems
+9488477948
+shantharajah.sp@vit.ac.in
+TUESDAY, 03:00 PM - 04:45 PM, WEDNESDAY, 11:00 AM - 01:00 PM
+SJT-413-A34
+
+10817
+Dr. Subha S
+Computer Architecture, Parallel Processing, Resource Optimization, Massive Datasets
+9502892860
+ssubha@vit.ac.in
+FRIDAY, 02:00 PM - 03:00 PM, TUESDAY, 11:00 PM - 12:00 PM
+SJT-313-A25
+
+10297
+Dr. Sathiyamoorthy E
+Cloud Computing, Big Data Analytics
+9443647047
+esathiyamoorthy@vit.ac.in
+FRIDAY, 10:00 AM - 11:30 AM, WEDNESDAY, 10:00 AM - 11:30 AM
+SJT-313-A10
+
+14497
+Dr. Asis Kumar Tripathy
+WSN, Cloud Computing, FOG Computing, IoT
+9438757587
+asistripathy@vit.ac.in
+MONDAY, 11:00 AM - 12:00 PM, WEDNESDAY , 11:00 AM - 12:00 PM
+SJT-213-A06
+
+14049
+Dr. Dharmendra Singh Rajput
+Machine Learning, Deep Learning and BDA
+8122215650
+dharmendrasingh@vit.ac.in
+No information
+SJT-710C
+
+11906
+Dr. Durai Raj Vincent P.M
+Machine Learning, Deep Learning
+9994911503
+pmvincent@vit.ac.in
+WEDNESDAY, 10:00 AM - 11:00 AM, TUESDAY, 11:00 AM - 12:00 PM
+SJTANX-201-D
+
+14036
+Dr. Iyapparaja M
+Machine Learning, Big Data & Networks
+9942532920
+iyapparaja.m@vit.ac.in
+THURSDAY, 10:30 AM - 11:30 AM, MONDAY, 10:00 AM - 12:00 PM, WEDNESDAY, 10:00 AM - 11:30 AM
+SJT-511-A32
+
+11184
+Dr. Jagadeesh G
+Software Engineering, Cloud Computing, Machine Learning
+9443688654
+gjagadeesh@vit.ac.in
+FRIDAY, 09:30 AM - 10:30 AM, MONDAY, 02:00 PM - 03:00 PM
+SJT-313-A12
+
+10266
+Dr. Jeyanthi N
+Quantum Cryptography, Block Chain, IoT Security, Security Audit and Analytics, Network Security
+9486049103
+njeyanthi@vit.ac.in
+MONDAY, 10:00 AM - 11:00 AM, WEDNESDAY, 04:00 PM - 05:00 PM
+SJT-411-A18
+
+12442
+Dr. John Singh K
+Network Security, Cloud Computing, Image Processing, VLSI Design
+9442451035
+johnsingh.k@vit.ac.in
+No information
+SJT-111-38A
+
+19632
+Dr. Kishoreraja P C
+Wireless security algorithms, Adhoc Networks, Artificial Intelligence, Internet of Things
+9962627311
+kishoreraja.pc@vit.ac.in
+No information
+PRP BLOCK 317F
+
+10267
+Dr. Pounambal M
+Wireless Networks, Data Analytics
+9994235581
+mpounambal@vit.ac.in
+MONDAY, 11:00 AM - 12:30 PM, WEDNESDAY, 11:00 AM - 12:00 AM
+SJT-116-A18
+
+11577
+Dr. Prabhavathy P
+Computational Intelligence, Machine Learnings, Data Analytics
+9486236259
+pprabhavathy@vit.ac.in
+WEDNESDAY, 11:00 AM - 01:00 PM, THURSDAY, 11:00 AM - 01:00 PM
+SJT-213-A36
+
+11921
+Dr. Prabhu J
+Artificial Intelligence, Software Testing, Machine Learning, Deep Learning, Block Chain
+9842241883
+j.prabhu@vit.ac.in
+WEDNESDAY, 10:00 AM - 12:00 PM, FRIDAY, 02:00 PM - 04:00 AM, TUESDAY, 10:00 AM - 12:00 PM, MONDAY, 03:00 PM - 05:00 PM
+SJT-213-22A
+
+11236
+Dr. Prabukumar M
+Image Processing, Remote Sensing, Machine Learning, Data Science / Analytics, Computer Graphics
+9894699058
+mprabukumar@vit.ac.in
+MONDAY, 02:00 PM - 03:00 PM, WEDNESDAY, 10:00 AM - 11:00 AM
+SJTANX-201-G
+
+14034
+Dr. Prasanna M
+Software Testing, Software Engineering.
+9994401662
+prasanna.m@vit.ac.in
+No information
+SJT-511-A06
+
+14795
+Dr. Ramkumar T
+Big Data Analytics, Data Mining
+9442421674
+ramkumar.thirunavukarasu@vit.ac.in
+MONDAY, 09:30 AM - 11:30 AM, TUESDAY, 08:30 AM - 09:45 AM, WEDNESDAY, 10:00 AM - 12:00 PM, THURSDAY, 10:00 AM - 12:00 PM, FRIDAY, 12:00 PM - 01:00 PM
+SJT-210-A39
+
+11160
+Dr. Senthil Kumaran  U
+Wireless and Mobile, Data Mining, Software Engineering, Cloud Computing
+9994863891
+usenthilkumaran@vit.ac.in
+No information
+SJT-313-A01
+
+10617
+Dr. Sree Dharinya S
+Machine Learning, Big Data, Web Semantics
+9894888847
+ssreedharinya@vit.ac.in
+TUESDAY, 11:00 AM - 12:00 PM, THURSDAY, 10:00 AM - 12:00 PM
+SJT-210-A06
+
+11966
+Dr. Tapan Kumar Das
+Artificial Intelligence, Machine Learning, Soft computing, Cognitive computing
+9655372128
+tapan.das@vit.ac.in
+WEDNESDAY, 11:00 AM - 01:00 PM, TUESDAY, 03:00 PM - 04:00 PM
+SJT-111-A05
+
+10268
+Dr. Thandeeswaran R
+Machine Learning, Data Communication Networks, Network & Information Security, Data Analytics
+9486049104
+rthandeeswaran@vit.ac.in
+MONDAY, 03:00 PM - 05:30 PM, THURSDAY, 10:00 AM - 12:30 PM
+SJT-116-A10
+
+11985
+Dr. Usha Devi G
+Machine Learning, Networks, Security
+9944482727
+ushadevi.g@vit.ac.in
+WEDNESDAY, 11:00 AM - 12:30 PM, TUESDAY, 09:00 AM - 10:00 AM
+SJT-111-A09
+
+14790
+Dr. Venkatesh P
+Big Data, Internet of Things, Machine Learning, Deep Learning
+9894098096
+venkatesh.palanisamy@vit.ac.in
+TUESDAY, 10:30 AM - 05:00 PM, THURSDAY, 10:30 AM - 05:00 PM, MONDAY, 10:30 AM - 12:30 PM
+SJT-111-A29
+
+10567
+Dr. Vijayan R
+Wireless Networks, IoT, Computer Networks, Mobile Adhoc Networks, Wireless Sensor Networks, Cloud Computing, Mobile Computing, Network Security, Trust-based Systems, Machine Learning, Data Science, Semantic Web, Web Technologies
+9842350596
+rvijayan@vit.ac.in
+MONDAY, 12:00 PM - 01:00 PM, TUESDAY, 09:00 AM - 01:00 PM, WEDNESDAY, 11:45 AM - 01:00 PM, THURSDAY, 10:00 AM - 01:00 PM, FRIDAY, 10:00 AM - 01:00 PM
+SJT-310-A02
+
+12929
+Dr. Valarmathi B
+Artificial Intelligence, Data Science, Machine Learning, Text Mining, IoT, Soft Computing, Cyber Security, Machine Intelligence,\nSoftware Engineering, Natural Language Processing
+9442811963
+valarmathi.b@vit.ac.in
+TUESDAY, 11:00 AM - 01:00 PM, WEDNESDAY, 11:00 AM - 01:00 PM
+SJT 611 F
+
+10939
+Dr. Vijayan E
+Image processing- event detection and classification in sports video
+9894195664
+evijayan@vit.ac.in
+No information
+SJT-313-A34
+
+
+11441
+Dr. Anitha A
+Deep Neural network, Computational Intelligence, Soft Computing, Big Data Analysis, Business Analytics
+9994687528
+aanitha@vit.ac.in
+WEDNESDAY, 10:00 AM - 11:00 AM, MONDAY, 11:30 AM - 12:30 PM, FRIDAY, 11:00 AM - 12:00 PM
+SJT-310-A06
+
+
+12383
+Dr. Brindha K
+Machine Learning, Blockchain Technology, Deep learning, Cryptography, Cloud Security
+8056749628
+brindha.k@vit.ac.in
+No information
+SJT-210-A18
+
+
+12325
+Dr. Chiranji Lal Chowdhary
+Machine / Deep Learning, AI, Image Processing, Computer Vision, Pattern Recognition, Computer Intelligence, Medical Imaging
+9629833599
+chiranji.lal@vit.ac.in
+No information
+SJT-116-A32
+
+
+10681
+Dr. Deepa M
+Cloud Computing, Machine Learning, Deep Learning, IOT, Computer Networks
+9789305010
+mdeepa@vit.ac.in
+TUESDAY, 10:00 AM - 11:00 AM, WEDNESDAY, 11:00 AM - 12:00 PM
+SJT-310-A38
+
+
+11888
+Dr. Ephzibah E.P
+Machine Learning, Big Data Analytics, Artificial Intelligence, Deep Learning, Image Processing
+9840655340
+ep.ephzibah@vit.ac.in
+FRIDAY, 11:00 AM - 12:00 PM, TUESDAY, 02:00 PM - 03:30 PM
+SJT-210-32A
+
+
+11641
+Dr. Gitanjali J
+Security, Ambient Intelligence, Networks
+9790101549
+gitanjalij@vit.ac.in
+TUESDAY, 11:30 AM - 01:00 PM, FRIDAY, 03:00 PM - 04:15 PM
+SJT-313-A13
+
+
+10286
+Dr. Gunasekaran G
+Image processing, Computer Graphics, Visualization Techniques and Multimedia Computing
+9443049982
+ggunasekaran@vit.ac.in
+TUESDAY, 11:00 AM - 12:00 PM, THURSDAY, 04:00 PM - 05:00 PM, FRIDAY, 12:00 AM - 01:00 PM
+SJT-213-A20
+
+
+10282
+Dr. Hemalatha S
+Image & Video Processing, Computer Vision, Pattern Recognition, Machine learning
+9994268023
+shemalatha@vit.ac.in
+WEDNESDAY, 03:00 PM - 04:00 PM, FRIDAY, 10:00 AM - 11:00 AM
+SJT-313-A30
+
+
+10373
+Dr. Kamalakannan J
+Medical Imaging, Image Processing, Machine Learning, Data Analytics, Deep Learning, Cloud Computing
+9944730423
+jkamalakannan@vit.ac.in
+MONDAY, 11:00 AM - 12:00 PM, FRIDAY, 09:00 AM - 10:00 AM
+SJT-511-A20
+
+
+13328
+Dr. Karthikeyan J
+Data Analytics using Machine Learning Techniques
+8428002334
+karthikeyan.jk@vit.ac.in
+WEDNESDAY, 09:00 AM - 10:00 AM, WEDNESDAY, 03:00 PM - 04:00 PM, THURSDAY 10:00 AM - 12:00 PM
+SJT-313-A14
+
+
+13580
+Dr. Kuruva Lakshmanna
+Machine learning, Data Science, IoT
+9488851982
+lakshman.kuruva@vit.ac.in
+MONDAY, 10:00 AM - 11:00 AM, FRIDAY, 11:00 AM - 12:00 PM
+SJT-111-A24
+
+
+10882
+Dr. Lawanya Shri M
+Block Chain Technology, Artificial Intelligence, Cloud Computing, Machine Learning, Deep Learning, Web Services, Big Data Analytics, Optimization Techniques
+9865831431
+kmlavanya@vit.ac.in
+WEDNESDAY, 11:00 AM - 12:30 PM, THURSDAY,10:30 AM - 12:30 PM
+SJT-313-A05
+
+
+11186
+Dr. Nadesh R.K
+Cloud-Fof-Edge Computing, IoT, Information Security Analysis and Audit, Machine Learning, Data Analytics, Wireless and Mobile Networks, Cyber Physical Systems, Enterprise Computing
+9444139524
+rknadesh@vit.ac.in
+MONDAY, 11:15 AM - 12:15 PM, THURSDAY, 11:00 AM - 12:00 PM, TUESDAY, 03:00 PM - 04:00 PM
+SJT-210-A05
+
+
+13722
+Dr. Navaneethan C
+Wireless Sensor Networks, Network Security, Cyber Security, Machine Learning, Cloud data security, Internet of Things Security
+9962327007
+navaneethan.c@vit.ac.in
+MONDAY, 11:00 AM - 12:00 PM, WEDNESDAY, 10:00 AM - 11:00 AM, THURSDAY, 09:00 PM - 11:00 AM, TUESDAY, 10:00 AM - 12:00 PM, FRIDAY, 11:00 AM - 12:00 PM
+SJT-213-A21
+
+
+11943
+Dr. Parimala M
+Big Data, Data Mining, Deep Learning, Artificial Intelligence & Health Analytics, Federated learning
+9894880003
+parimala.m@vit.ac.in
+No information
+SJT-213-A23
+
+
+10952
+Dr. Priya V
+Cyber Security, Cyber Forensics, Cloud Computing, Big Data Analytics, Cloud Security, Artificial Intelligence, Machine Learning
+9566812812
+vpriyacse@vit.ac.in
+No information
+SJT-411-A31
+
+
+11117
+Dr. Prasanna S
+Data Mining, Artificial Intelligence, Cloud Computing, Machine learning, Block Chain, Gamification, IoT
+9150238101
+sprasanna@vit.ac.in
+No information
+SJT 210 A11
+
+
+12473
+Dr. Rahamathunnisa U
+Image Processing, Video Processing,  Computer Networks, Multimedia Networks.
+9843734019
+rahamathu.u@vit.ac.in
+THURSDAY 11:00 AM - 01:00 PM
+SJT-116-A03
+
+
+13350
+Dr. Rajesh Kaluri
+Computer Vision, Machine Learning, IOT
+7639573100
+rajesh.kaluri@vit.ac.in
+FRIDAY, 11:00 AM - 12:00 PM, MONDAY, 09:00 AM - 10:00 AM
+SJT-111-A18
+
+
+12295
+Dr. Senthil kumar M
+Machine Learning,  Deep Learning,  Big Data, Security
+9994267718
+senthilkumar.mohan@vit.ac.in
+WEDNESDAY, 10:30 AM - 12:30 AM, FRIDAY, 10:30 AM - 12:30 PM
+SJT-116-A11
+
+
+10873
+Dr. Senthil Kumar P
+Machine Learning, Big Data Analytics, Deep Learning
+9994626135
+psenthilkumar@vit.ac.in
+TUESDAY, 11:30 AM - 12:30 PM, THURSDAY, 03:00 PM - 04:00 PM
+SJT-210-A13
+
+
+11627
+Dr. Senthil Murugan B
+Cloud Computing, Big Data Analytics, Future Internet (Internet of Things, Internet of Services , Internet of Content), AI & Machine\nLearning, Data Engineering
+9047151090
+senthilmurugan.b@vit.ac.in
+WEDNESDAY, 10:00 AM - 11:00 AM, FRIDAY, 12:00 PM - 01:00 PM
+SJT-411-A20
+
+
+12340
+Dr. Shynu P G
+Cloud computing, Machine Learning,  Big Data Analytics, IoT, Block Chain Technology
+9840800396
+pgshynu@vit.ac.in
+No information
+SJT-116-A02
+
+
+12388
+Dr. Srinivas Koppu
+Blockchain, IoT, Federated Learning, AI,  Data Analytics
+7667163460
+srinukoppu@vit.ac.in
+THURSDAY, 10:00 AM - 11:00 AM, WEDNESDAY, 11:15 AM - 12:45 PM, TUESDAY, 11:00 AM - 12:15 PM
+SJT-111-A12
+
+
+14840
+Dr. Srinivasan P
+Network, IoT,  Machine Learning
+7904050762
+srinivasan.suriya@vit.ac.in
+WEDNESDAY, 09:15 AM - 01:15 PM
+SJT-111-39
+
+
+11968
+Dr. Sudha M
+Predictive Analytics, Medical Informatics and IoT Analytics
+9443744781
+msudha@vit.ac.in
+THURSDAY, 10:30 AM - 11:15 AM, WEDNESDAY, 11:00 AM - 11:45 AM
+SJT-111-A06
+
+
+11882
+Dr. Sujatha R
+Machine Learning, Deep Learning
+9943559395
+r.sujatha@vit.ac.in
+WEDNESDAY, 11:00 AM - 12:00 AM, FRIDAY, 10:00 AM - 12:00 AM, FRIDAY, 02:00 PM - 03:00 PM
+SJT-210-A31
+
+
+10948
+Dr. Sumaiya Thaseen I
+Cyber Security, Machine Learning, Cloud Computing, Deep Learning
+9443215146
+isumaiyathaseen@vit.ac.in
+No information
+No information
+
+
+11978
+Dr. Swarna Priya R.M
+IoT, Advanced Image Processing, Deep Learning
+9486120585
+swarnapriya.rm@vit.ac.in
+MONDAY, 02:00 PM - 04:00 PM, TUESDAY, 10:00 AM - 11:00 AM, THURSDAY, 10:00 AM - 12:00 PM
+SJT-111-A10
+
+
+11972
+Dr. Thanapal P
+Cloud Computing, Mobile Cloud Computing, IoT, Machine learning, Deep Learning, Security
+9994311188
+thanapal.p@vit.ac.in
+MONDAY, 10:00 AM - 11:00 PM, FRIDAY, 04:00 PM - 05:00 PM, WEDNESDAY, 10:00 AM - 11:00 AM
+SJT-111-A08
+
+
+10298
+Dr. Vani M.P
+Network, Software Engineering and Computer Applications
+9994392790
+mpvani@vit.ac.in
+No information
+SJT 210 A35
+
+
+10908
+Dr. Vanitha M
+IoT, Security, Data Analytics, Machine Learning, Cryptography, Computer Architecture
+9942197266
+mvanitha@vit.ac.in
+FRIDAY, 11:00 AM - 12:30 PM,WEDNESDAY,03:00 PM - 05:00 PM
+SJT-313-19A
+
+
+14081
+Dr. Vijay Anand R
+Block Chain, Networking, Software Testing
+9486925104
+vijayanand.r@vit.ac.in
+No information
+SJT-210-A10
+
+
+11554
+Dr. Gundala Swathi
+Wireless Network and Security, Networks and Information Security
+9486273280
+gundalaswathi@vit.ac.in
+No information
+SJT-213-A34
+
+
+10953
+Dr. Karthikeyan P
+Software Architecture and Design, Service Level Agreement, Cloud Architecture, Object Oriented Analysis and Design
+9843892467
+pkarthikeyan@vit.ac.in
+WEDNESDAY, 10:15 AM - 12:45 PM, FRIDAY, 10:15 AM - 12:15 PM, MONDAY, 03:00 PM - 04:15 PM, TUESDAY, 03:15 PM - 04:15 PM, THURSDAY,03:15 PM - 04:15 PM
+SJT-313-A22
+
+
+19622
+Dr. Krishnamoorthy N
+Cloud Computing, Machine Learning and Deep Learning
+9486904557
+krishnamoorthy.n@vit.ac.in
+No information
+PRP BLOCK 218-P
+
+
+11953
+Dr. Kumar P.J
+Internet of Things, Machine Learning and Artificial Intelligence, Data Mining, Computer networks, Distributed Systems
+9600842942
+pjkumar@vit.ac.in
+WEDNESDAY, 11:00 AM - 12:00 PM, FRIDAY, 11:00 AM - 12:00 PM, MONDAY, 04:00 PM - 05:00 PM
+SJT-213-A27
+
+
+12492
+Dr. Meenatchi S
+Wireless Sensor Networks, Networks, Network Security
+9962344550
+meenatchi.s@vit.ac.in
+No information
+SJT-213-A11
+
+
+10905
+Dr. Muthamil Selvan T
+Machine Learning, Data mining, Deep Learning
+9442067823
+tmuthamilselvan@vit.ac.in
+WEDNESDAY, 11:00 AM - 12:00 PM, FRIDAY, 11:00 AM - 12:00 PM
+SJT-210-17A
+
+
+10295
+Dr. Mythili N
+Network Security, Computer Networks, Data Structure and Algorithms.
+9842318972
+nmythili@vit.ac.in
+FRIDAY, 10:00 AM - 11:00 AM, MONDAY, 12:00 PM - 01:00 PM
+SJT-313-A06
+
+
+12375
+Dr. Nithya S
+Networking (SDN), Blockchain, Machine Learning, Artificial Intelligence
+9655669096
+nithya.s@vit.ac.in
+MONDAY, 10:30 AM - 11:30 AM
+SJT-116-A37
+
+
+10949
+Dr. Nirmala M
+Machine Learning, Big Data, Cloud Computing, Web Service
+9487305955
+mnirmala@vit.ac.in
+WEDNESDAY, 10:00 AM - 11:30 AM, MONDAY, 11:15 AM - 12:30 AM
+SJT-511-A28
+
+
+12362
+Dr. Priya M
+Data Mining, Networking, IoT, Data Science, Operating Systems
+9994628305
+priya.m@vit.ac.in
+THURSDAY, 11:00 AM - 12:00 PM, WEDNESDAY, 11:00 AM - 12:00 PM
+SJT-111-A14
+
+
+13300
+Dr. Rajeswari C
+Data Mining, Machine Learning, IOT, Optimization, Deep Learning, Data Analysis
+9600376711
+rajeswari.c@vit.ac.in
+MONDAY, 10:00 AM - 11:00 AM, TUESDAY, 02:00 PM - 03:00 PM
+SJT-111-A31
+
+
+10236
+Dr. Ranichandra C
+Advanced Database Management Systems, Big Data Analytics, Data Mining
+9443225238
+cranichandra@vit.ac.in
+MONDAY, 11:30 AM - 12:30 PM, TUESDAY, 03:30 PM - 04:30 PM
+SJT-310-A26
+
+
+11189
+Dr. Selva Rani B
+Machine Learning, Cryptography & Cyber Security, Computational Intelligence and Quantum Computing.
+8300143020
+bselvarani@vit.ac.in
+FRIDAY, 03:00 PM - 04:00 PM, WEDNESDAY, 11:00 AM - 12:00 PM, MONDAY, 10:00 AM - 11:00 AM
+SJT-310-27A
+
+
+11853
+Dr. Uma Maheswari G
+Energy, MCDM Techniques, Machine Learning and AI
+9442702733
+g.umamaheswari@vit.ac.in
+MONDAY, 12:00 PM - 01:00 PM, THURSDAY, 03:00 PM - 04:00 PM
+SJT-210-A23
+
+
+10889
+Dr. Alagiri I
+Wireless Networks, Data Mining
+9025353585
+ialagiri@vit.ac.in
+WEDNESDAY, 11:00 AM - 12:00 PM, FRIDAY, 11:30 AM - 12:30 PM
+SJT-210-A09
+
+
+11992
+Dr. Angulakshmi M
+Image Processing, Machine Learning, Deep learning
+9750543959
+angulakshmi.m@vit.ac.in
+THURSDAY, 02:15 PM - 03:15 PM, WEDNESDAY, 02:15 PM - 04:15 PM
+SJT-116-A31
+
+
+11185
+Dr. Arivuselvan K
+Artificial Intelligence, Medical Image Processing, Computational Neuroscience, Machine Learning
+9443964021
+karivuselvan@vit.ac.in
+TUESDAY, 10:00 AM - 12:00 PM, THURSDAY, 02:00 PM - 04:00 PM
+SJT-210-A20
+
+
+19593
+Dr. Bhuvana S
+Machine learning , Image processing, Data Analytics , Information Retrieval
+9894635072
+bhuvana.s@vit.ac.in
+No information
+PRP Block - 208P
+
+
+11054
+Dr. Chandra Mouliswaran S
+Knowledge Representation, Information Security, Machine Learning and Cybernetics
+9486620543
+chandramouliswaran@vit.ac.in
+TUESDAY, 02:30 PM - 04:30 PM, WEDNESDAY, 11:00 AM - 12:00 PM, THURSDAY, 02:30 PM - 04:30 PM, FRIDAY, 10:30 AM - 12:30 AM
+SJT-210-A29
+
+
+16404
+Dr. Harshita Patel
+Machine Learning, Big Data Analytics, Data Mining
+9893003744
+harshita.patel@vit.ac.in
+MONDAY, 04:00 PM - 04:50 PM, TUESDAY, 11:00 AM - 01:00 PM, WEDNESDAY, 11:00 AM - 12:15 PM, THURSDAY,04:00 PM - 04:50 PM
+SJT 614 A1
+
+
+10594
+Dr. Jayaram Reddy A
+Database, Data Mining, Data Analytics and Artificial Intelligence
+9443293898
+ajayaramreddy@vit.ac.in
+WEDNESDAY, 08:45 AM - 12:30 PM, FRIDAY, 08:45 AM - 05:00 PM
+SJT-313-A27
+
+
+19570
+Dr. Parvathi R
+Machine Learning, Deep Learning, Wireless Sensor Networks and IOT
+9025650242
+r.parvathi@vit.ac.in
+WEDNESDAY, 11:00 AM - 01:00 PM, MONDAY, 10:00 AM - 12:00 PM
+SJT 310 A24
+
+
+14409
+Dr. Prabadevi B
+Machine Learning, Block Chain, Network Security, Decision Analysis
+9442690043
+prabadevi.b@vit.ac.in
+MONDAY, 10:00 AM - 11:00 AM, TUESDAY, 09:15 AM - 12:30 PM, WEDNESDAY, 10:00 AM - 01:30 PM, THURSDAY, 10:00 AM - 01:00 PM, FRIDAY, 10:00 AM - 01:30 PM
+SJT-111-A15
+
+
+14056
+Dr. Praveen Kumar Reddy M
+IOT, Data Science, Machine Learning
+9751281395
+praveenkumarreddy@vit.ac.in
+WEDNESDAY, 11:00 AM - 12:00 PM, MONDAY, 09:30 AM - 10:30 AM, TUESDAY, 09:30 AM - 10:30 AM
+SJT-111-A27
+
+
+10620
+Dr. Raghavan R
+Image Processing and Retrieval, Knowledge Engineering, Automata Theory, Artificial Intelligence, Machine Learning, Deep Learning
+9486368892
+rraghavan@vit.ac.in
+WEDNESDAY, 11:00 AM - 12:00 PM, TUESDAY, 03:00 PM - 04:00 PM
+SJT-210-A03
+
+
+13568
+Dr. Ramesh P S
+Image Processing, Wireless Sensor Networks, Artificial Intelligence, Machine Learning and BlockChain.
+9976924455
+ramesh.ps@vit.ac.in
+No information
+No information
+
+
+11947
+Dr. Rathi R
+Machine Learning, Data Mining, Artificial Intelligence, Image Processing, Deep Learning, Transfer Learning
+9790649978
+rathi.r@vit.ac.in
+No information
+SJT-213-25A
+
+
+10907
+Dr. Santhi K
+Cloud Computing, Computer Networks, Computer Architecture, Blockchain & IoT
+9442395377
+ksanthi@vit.ac.in
+No information
+SJT-313-A11
+
+
+11599
+Dr. Seetha R
+Mobile ad hoc network, Cryptography, Blockchain, IoT
+9486341417
+rseetha@vit.ac.in
+MONDAY, 12:00 PM - 01:00 PM, THURSDAY, 04:00 PM - 05:00 PM
+SJT-213-A32
+
+
+10364
+Dr. Senthilkumar N.C
+Data Mining, Machine Learning, Deep Learning, Big Data Analytics, Sentiment Analysis. Opinion mining, Text mining, IoT, Image\nProcessing
+9486845866
+ncsenthilkumar@vit.ac.in
+No information
+SJT-313-A35
+
+
+11576
+Dr. Sumangali K
+Data Mining, Machine Learning, Web Development
+9976857799
+ksumangali@vit.ac.in
+TUESDAY, 10:00 AM - 11:00 AM, THURSDAY, 03:00 PM - 04:00 PM
+SJT-313-A16
+
+
+13096
+Dr. Sweta Bhattacharya
+Data Mining, Machine Learning, Deep Learning, AI, Industrial Engineering, Software Engineering, Software Project Management, Software Testing, Decision Support Systems, Multi-criteria Decision Making
+9047638148
+sweta.b@vit.ac.in
+No information
+SJT-210-A25
+
+
+19619
+Dr. Vinothkumar V
+Wireless Networks, Internet of Things, Artificial Intelligence
+9025996137
+vinothkumar.v@vit.ac.in
+TUESDAY, 02:00 PM - 04:00 PM
+PRP BLOCK 218 O
+
+
+20137
+Dr. Vivekananda G.N
+Networks, Security, Artificial Intelligence, Cloud Computing, Block chain Technology
+9052307088
+vivekananda.gn@vit.ac.in
+MONDAY, 02:00 PM - 05:00 PM\nTUESDAY, 02:00 PM - 04:00 PM\nWEDNESDAY, 09:00 AM - 12:00 PM\nTHURSDAY, 02:00 PM - 05:00 PM\nFRIDAY, 09:00 AM - 12:00 PM
+SJT 210 A21
+
+
+16379
+Dr. Vellingiri J
+Data Mining, Data Analytics
+9842097523
+vellingiri.j@vit.ac.in
+MONDAY, 09:00 AM - 01:00 PM\nMONDAY, 02:00 PM - 04:00 PM\nTUESDAY, 09:00 AM - 01:00 PM\nWEDNESDAY, 02:00 PM - 05:00 PM\nFRIDAY, 02:00 PM - 04:00 PM
+SJT 313 A20
+
+
+10967
+Dr. Asha N
+Software Engineering, Data Science, Artificial Intelligence, Cloud Computing Information security and IoT
+9585392495
+nasha@vit.ac.in
+No information
+SJT-213-29A
+
+
+12563
+Dr. Brijendra Singh
+Computational Intelligence, Machine Learning, Deep Learning, Data Mining, Data Analytics
+9791326500
+brijendrasingh@vit.ac.in
+MONDAY, 10:30 AM - 11:30 AM\nFRIDAY, 03:00 PM - 04:00 PM
+SJT-510-A01
+
+
+12387
+Dr. Chandrasegar.T
+Machine learning, Cybersecurity, Soft Computing, Cryptography
+8870985558
+chandrasegar.t@vit.ac.in
+WEDNESDAY,09:45 AM - 11:45 AM
+SJT-116-A17
+
+
+12366
+Dr. Charanya R
+Cloud, Blockchain,  Networking
+9626704484
+charanya.r@vit.ac.in
+MONDAY, 09:00 AM - 10:00 AM\nTUESDAY,09:00 AM - 10:00 AM
+SJT-116-A36
+
+
+11061
+Dr. Jayalakshmi P
+Wireless Network(Sensor Network, MANET, VANET),Cloud Computing, IOT, Machine Learning
+9894563290
+pjayalakshmi@vit.ac.in
+MONDAY, 11:00 AM - 12:45 PM\nWEDNESDAY, 11:00 AM - 12:45 PM\nTHURSDAY, 11:00 AM - 12:00 PM
+SJT-310-16A
+
+
+19719
+Dr. Jagadeesan S
+Wireless Networks, Cross layer Design and Detection, Network Security, Cyber Security, Software Defined Networks, Machine\nLearning
+9659802635
+s.jagadeesan@vit.ac.in
+No information
+PRP BLOCK 217-12
+
+
+11619
+Dr. Kalaivani S
+Image Processing, Pattern Recognition, Machine Learning, Deep Learning, Computer Vision, Satellite Image Processing
+8608725003
+kalaivanis@vit.ac.in
+TUESDAY, 10:30 AM - 11:30 AM\nWEDNESDAY, 02:00 PM - 03:00 PM
+SJT-213-A35
+
+
+12532
+Dr. Krithika L.B
+Image Processing, NLP, Block Chain, IOT, Data Science & Analytics
+9047056384
+krithika.lb@vit.ac.in
+No information
+SJT-111-A01
+
+
+12565
+Dr. Magesh G
+Machine Learning, Data Mining, Artificial Intelligence
+9566406564
+magesh.g@vit.ac.in
+TUESDAY, 10:00 AM - 12:00 PM\nFRIDAY, 10:00 AM - 11:30 AM
+SJT-510-A19
+
+
+11879
+Dr. Mareeswari V
+Semantic Web Services, Deep Learning, Cloud Computing, Trust-based Systems, Data Analytics, Image Processing, IoT
+9865997515
+vmareeswari@vit.ac.in
+TUESDAY, 10:00 AM - 11:30 AM\nTHURSDAY, 10:00 AM - 11:30 AM
+SJT-210-30A
+
+
+13678
+Dr. Nancy Victor
+Privacy and Security, Natural Language Processing, Machine Learning,  Deep Learning, Big Data
+9487836200
+nancyvictor@vit.ac.in
+WEDNESDAY, 11:45 AM - 12:30 PM\nFRIDAY, 11:00 AM - 11:30 AM\nTHURSDAY, 09:45 AM - 10:45 AM
+SJT-213-A16
+
+
+13360
+Dr. Nallakaruppan M.K.
+Internet of Things, Data Science, Fuzzy and Soft Computing,  Network and Sensors, Software Engineering, Java, Python and\nMATLAB
+9940741714
+nallakaruppan.mk@vit.ac.in
+No information
+No information
+
+
+16194
+Dr. Pradeepa M
+Signal/Image Processing, Computer networks, Communication, Deep Learning and Machine Learning
+9865043143
+pradeepa.m@vit.ac.in
+No information
+SJT 116 A28
+
+
+12374
+Dr. Ramya.G
+Formal languages and automata theory Machine learning, Artificial intelligence
+9597218281
+ramya.g@vit.ac.in
+THURSDAY, 01:00 PM - 05:00 PM\nMONDAY, 10:00 AM - 01:00 PM
+SJT-116-A38
+
+
+11581
+Dr. Senthilkumar N
+Semantic Web, Information Retrieval and Natural Language Processing
+9943541777
+senthilkumar.n@vit.ac.in
+MONDAY, 11:00 AM - 12:00 PM\nTHURSDAY, 02:00 PM - 03:00 PM
+SJT-310-A22
+
+
+19610
+Dr. Senthilkumar T
+Image Processing, Networking, Wireless & Ad hOC Networks
+9442254807
+senthilkumar.t@vit.ac.in
+No information
+PRP BLOCK 218 L
+
+
+12305
+Dr. Siva Rama Krishnan S
+Networking, Cloud, Blockchain, Machine learning
+9944454400
+siva.s@vit.ac.in
+No information
+SJT-313-A37
+
+
+11995
+Dr. Sivashankari R
+Natural Language Processing, Machine learning, Automata Theory
+9791315340
+sivashankari.r@vit.ac.in
+MONDAY, 02:00 PM - 03:00 PM\nFRIDAY, 10:00 AM - 11:00 AM
+SJT-116-A34
+
+
+11580
+Dr. Suba Shanthini  S
+Information Security and Image Encryption
+9751522862
+subashanthini@vit.ac.in
+No information
+SJT-310-A18
+
+
+11041
+Dr. Sumathi D
+Next-Generation Networks, Wireless Networks and IOT
+9003386581
+dsumathi@vit.ac.in
+MONDAY, 03:00 PM - 03:30 AM
+SJT-213-A30
+
+
+19709
+Dr. Thanga Mariappan L
+Computer Networks, Wireless Sensor Networks, Cyber Security, Artificial  Intelligence, Block Chain and Cryptocurrency
+9566866210
+thangamariappan.l@vit.ac.in
+MONDAY, 10:00 AM - 11:00 AM\nTUESDAY, 10:30 AM - 11:30 AM\nWEDNESDAY, 10:00 AM - 11:00 AM\nTHURSDAY, 09:45 AM - 10:45 AM\nFRIDAY, 09:30 AM - 10:30 AM
+PRP BLOCK 317 D
+
+
+14808
+Dr. Uma K
+Image Processing, Machine Learning and Deep Learning, Networks and Information Security, AI and Cloud Computing.
+9840733592
+uma.kuppusamy@vit.ac.in
+WEDNESDAY, 08:30 AM - 12:30 PM\nTHURSDAY, 09:00 AM - 12:30 PM\nTUESDAY, 09:00 AM - 12:30 PM\nMONDAY, 11:00 AM - 12:30 PM
+SJT-210-A40
+
+
+19568
+Dr. Anbarasa Kumar A
+Computer Networks, Cyber Security, Machine Learning, Image Processing
+9629036980
+anbarasakumar.a@vit.ac.in
+No information
+SJT 213 A40
+
+
+19710
+Dr. Arun Pandian J
+Deep Learning, Reinforcement learning, Predictive Analytics
+8807813091
+arunpandian.j@vit.ac.in
+No information
+SJT 413 A05
+
+
+19707
+Dr. Arunkumar A
+SDN-NFV Cloud, Virtualization, 5G/6G based AI/ML Networking, Wireless, Vehicular and UAV communications.
+9578332627
+arunkumar.a@vit.ac.in
+TUESDAY, 12:00 PM - 01:00 PM\nWEDNESDAY, 12:00 PM - 01:00 PM\nTHURSDAY, 03:00 PM - 04:00 PM\nFRIDAY, 11:00 AM - 12:00 PM
+PRP BLOCK 317 C
+
+
+19600
+Dr. Balaji E
+Machine Learning, Signal Processing, Embedded Systems and Pattern Recognition
+9790377187
+balaji.e@vit.ac.in
+No information
+PRP BLOCK 218 I
+
+
+19692
+Dr. Bharani Dharan N
+Machine learning, Deep learning, Image processing
+9600635937
+bharanidharan.n@vit.ac.in
+TUESDAY, 10:30 AM - 12:30 PM\nWEDNESDAY, 02:00 PM - 04:00 PM\nFRIDAY, 10:00 AM - 12:00 PM
+PRP BLOCK 307 M
+
+
+14459
+Dr. Chemmalar Selvi G
+Machine Learning, Deep Learning, Data Science and Artificial Intelligence, Blockchain Technology
+8903446725
+chemmalarselvi.g@vit.ac.in
+No information
+SJT-116-A15
+
+
+15951
+Dr. Gayathri A
+MANETs, Network Security, IoT
+9444618421
+gayathri.a@vit.ac.in
+MONDAY, 11:00 AM - 01:00 PM\nFRIDAY, 10:00 AM - 12:00 PM\nTUESDAY, 10:00 AM - 12:00 PM
+SJT 613 G
+
+
+19601
+Dr. Karthikeyan D
+Wireless Networks, Network Security, Machine Learning, Internet of Things\nSignal Processing
+9080592199
+karthikeyan.duraisamy@vit.ac.in
+No information
+PRP BLOCK 218 J
+
+
+13347
+Dr. Kavitha B.R
+Computer Vision, Deep Learning, Internet of Things
+9176697713
+kavitha.br@vit.ac.in
+TUESDAY, 03:00 PM - 04:00 PM\nFRIDAY, 11:00 AM - 12:00 PM
+SJT-116-A09
+
+
+12377
+Dr. Kumaresan P
+Software Process Automation, ERP, IOT, WBAN,  Machine learning, Deep learning and Embedded Systems
+9842582301
+pkumaresan@vit.ac.in
+MONDAY, 04:00 PM - 05:00 PM\nWEDNESDAY, 04:00 PM - 05:00 PM\nFRIDAY, 12:00 PM - 01:00 PM
+SJT-116-A24
+
+
+19649
+Dr. Mohanraj G
+Cloud Computing, Data Analytics, Child healthcare (Immunization and Neonatal care), Image Analysis, Machine Learning and Deep\nLearning, Full stack web development, Flask based web application development
+8825949118
+mohanraj.gopal@vit.ac.in
+WEDNESDAY,02:00 PM - 06:00 PM
+PRP BLOCK 317G
+
+
+19557
+Dr. Ramalingam M
+Machine Learning, Artificial Intelligence, Vehicular Adhoc Networks, IoT
+9786931324
+ramalingam.m@vit.ac.in
+No information
+SJT111 A30
+
+
+16385
+Dr. Shunmuga Perumal P
+Artificial Intelligence, Machine Learning, Deep Neural Networks, Autonomous Vehicles/Self-Driving cars, Sensor Fusion, Internet of Things
+9790914537
+shunmugaperumal.p@vit.ac.in
+MONDAY, 11:00 AM - 12:30 PM\nTUESDAY, 02:00 PM - 05:00 PM\nWEDNESDAY, 02:00 PM - 05:00 PM
+SJT 609 E
+
+
+14499
+Dr. Suganya P
+Internet of Things, Wireless Networks, Machine Learning
+9790566099
+suganya.p@vit.ac.in
+WEDNESDAY, 10:30 AM - 12:30 PM\nFRIDAY, 10:30 AM - 12:45 PM\nTHURSDAY, 10:00 AM - 12:00 PM\nMONDAY, 12:00 PM - 01:00 PM\nTUESDAY, 09:30 AM - 12:30 PM
+SJT-213-A08
+
+
+12572
+Dr. Tamil Priya D
+Machine learning, Data Science, Image Processing and Computer Vision, Semantic Analysis
+9600795599
+tamilpriya.d@vit.ac.in
+MONDAY, 10:00 AM - 11:00 AM\nWEDNESDAY, 10:00 AM - 12:00 PM\nTHURSDAY, 02:00 PM - 03:00 PM
+SJT-411-A08
+
+
+14062
+Dr. Ushapreethi P
+Computer Vision, Machine Learning, Video analysis, Image Segmentation / Classification
+9944406454
+ushapreethi.p@vit.ac.in
+TUESDAY, 11:00 AM - 12:00 PM\nTHURSDAY, 11:00 AM - 12:00 PM
+SJT-612-A22
+
+
+12506
+Dr. Vijayarani A
+Image processing with deep learning
+7904443027
+vijayarani.a@vit.ac.in
+THURSDAY, 11:30 AM - 12:30 PM\nMONDAY, 11:30 AM - 12:30 PM
+SJT-210-A08
+
+
+20152
+Dr. Jerart Julus L
+Computer Networks, Optical communication and networking and Embedded Systems
+9025500143
+jerartjulus.l@vit.ac.in
+WEDNESDAY, 03:00 PM - 04:30 PM\nTUESDAY, 11:00 AM - 12:00 PM
+PRP 307-O
+
+
+20153
+Dr. Jagannathan J
+Machine Learning, Deep learning, Predictive Analytics and IOT
+8220230813
+jagannathan.j@vit.ac.in
+No information
+PRP 315-AB-1
+
+
+20157
+Dr. Mohana Priya P
+Network Security, Software Defined Networks, Information Security (Cryptography)
+8220766748
+mohanapriya.p@vit.ac.in
+MONDAY, 10:00 AM - 11:00 AM\nTUESDAY, 11:30 AM - 01:00 PM\nWEDNESDAY, 11:00 AM - 01:00 PM\nTHURSDAY, 11:00 AM - 01:00 PM\nFRIDAY, 11:00 AM - 12:00 PM
+PRP 315-AB-2
+
+
+20162
+Dr. Bala Ganesh N
+Data mining and Sentimental analysis
+9626153785
+balaganesh.n@vit.ac.in
+No information
+PRP 315-AB-4
+
+
+20160
+Dr. Bhuvaneswari M.S
+Web Mining, Recommendation System, Data Mining using Machine Learning and Deep Learning Techniques
+9443871421
+bhuvaneswari.ms@vit.ac.in
+No information
+PRP 315-AB-3
+
+
+13413
+Dr. Mani P, SSL
+Software Testing, Software Project Management, Software Requirements Engineering , Software Sustainability.
+8760614005
+mani.p@vit.ac.in
+THURSDAY, 03:30 PM - 05:00 PM\nWEDNESDAY, 11:15 AM - 12:45 PM
+TT - 533 C
