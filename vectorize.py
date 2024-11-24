@@ -23,12 +23,12 @@ text_chunks = text_splitter.split_documents(documents)
 vectordb = Chroma.from_documents(
     documents=text_chunks,
     embedding=embeddings,
-    persist_directory="./vector_db"
+    persist_directory="./vector_db_dir"
 )
 
 print("Documents vectorized !!")
 
-query = "Open hours and cabin number of Aswani Kumar"
+query = "when is Riviera 2025?"
 matched_docs = vectordb.similarity_search(query)
 for ind, doc in enumerate(matched_docs):
     print(f"------------- Document {ind}: \n Context: \n {doc.page_content}")

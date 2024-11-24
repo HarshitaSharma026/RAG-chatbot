@@ -18,7 +18,7 @@ genai.configure()
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
 def setup_vector_store():
-    persist_directory = f"{working_dir}/vector_db"
+    persist_directory = f"{working_dir}/vector_db_dir"
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
     vectorstore = Chroma(persist_directory=persist_directory,
     embedding_function = embeddings)
