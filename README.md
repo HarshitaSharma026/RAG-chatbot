@@ -23,7 +23,7 @@ dotenv, for API key management.
 Streamlit community cloud, for deployment
 
 ## How to Use the Chatbot
-Refer to the text documents in "dummy" directory to get an idea of what type of questions (from the documents) can be asked.
+Refer to the text documents in "data" directory to get an idea of what type of questions (from the documents) can be asked.
 Enter your query in the input box.
 The chatbot will retrieve relevant documents and provide detailed answers based on the context.
 The chat history is maintained throughout the session to ensure continuity in conversation.
