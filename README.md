@@ -10,7 +10,7 @@ This chatbot has been developed to serve requests of students of my university, 
 - Faculty information (of one school - SCORE)
 - Syllabi for Mtech and MCA courses
 
-## How does it works?
+## How does it work?
 The chatbot retrieves relevant documents, processes user inputs while maintaining session history, and formulates accurate responses using the context from the documents. It utilizes a history-aware retriever to maintain the chat flow and provide detailed responses based on prior questions or user references.
 
 ## 🧑‍💻 Technologies Used
@@ -22,11 +22,48 @@ Python, for all backend operations.
 dotenv, for API key management.
 Streamlit community cloud, for deployment
 
-## How to Use the Chatbot
+## How to Run the Chatbot
+1. Clone the repository
+```
+git clone https://github.com/HarshitaSharma026/RAG-chatbot.git
+```
+
+2. Install Dependencies
+```
+pip install -r requirements.txt
+```
+
+3. Before moving forward, you need to get the Gemini API key from the Google from here: [For creating Gemini API key](https://aistudio.google.com/app/apikey), and get your credentials.json file. Copy and paste this file in your working directory.
+
+4. Vectorize documents
+Before running the chatbot, you need to vectorize the documents. To do this, execute the vectorize.py script:
+```
+python3 vectorize.py
+```
+This will process and convert the text documents into embeddings, which will be used by the chatbot for retrieving relevant information.
+
+5. Run the main script
+```
+streamlit run main.py
+```
+This will launch the chatbot, and you can begin interacting with it.
+
+## What type of question can be asked?
 Refer to the text documents in "data" directory to get an idea of what type of questions (from the documents) can be asked.
 Enter your query in the input box.
 The chatbot will retrieve relevant documents and provide detailed answers based on the context.
 The chat history is maintained throughout the session to ensure continuity in conversation.
+
+### Some important point for you 
+1. **Langsmith** is used to track each and every interaction with the chatbot.
+To enable it, you need to create an account in langsmith, get the API key, and paste it in .env file in the following format: 
+```
+LANGCHAIN_API_KEY="<your-langchain-api-key>"
+LANGCHAIN_PROJECT="<name-of-the-project>"
+```
+If you wish to go without tracing, go ahead and comment out line 21 and 22 in main.py before running the chatbot.
+
+2. The code from line 23 - line 31 is written to convert the **credentials.json** file to **secrets.toml** file which is a standard used by Streamlit to get your environment variable. To avoid this conversion creating problems for you, comment out these lines and uncomment line 32. Add the absolute path to your **credentials.json**, and you're good to go!!
 
 🎯**This is an ongoing project. I am actively learning and building side by side making it give more accurate answers. So feel free to contribute, report issues, or suggest enhancements to help improve its performance.
 
