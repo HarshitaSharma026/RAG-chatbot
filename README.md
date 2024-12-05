@@ -63,7 +63,7 @@ LANGCHAIN_PROJECT="<name-of-the-project>"
 ```
 If you wish to go without tracing, go ahead and comment out line 21 and 22 in main.py before running the chatbot.
 
-2. The code from line 23 - line 31 is written to convert the **credentials.json** file to **secrets.toml** file which is a standard used by Streamlit to get your environment variable. To avoid this conversion creating problems for you, comment out these lines and uncomment line 32. Add the absolute path to your **credentials.json**, and you're good to go!!
+2. The code from line 23 - line 31 is written to convert the **credentials.json** file to **secrets.toml** file which is a standard used by Streamlit to get your environment variable for deployment. To avoid this conversion creating problems for you, comment out these lines and uncomment line 32. Add the absolute path to your **credentials.json**, and you're good to go!!
 
 🎯**This is an ongoing project. I am actively learning and building side by side making it give more accurate answers. So feel free to contribute, report issues, or suggest enhancements to help improve its performance.
 
