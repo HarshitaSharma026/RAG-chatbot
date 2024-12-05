@@ -2,4 +2,4 @@ venv/
 .env
 credentials.json
 trial_codes/
-.streamlit\
+.streamlit
