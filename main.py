@@ -12,7 +12,7 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from dotenv import load_dotenv
 
 load_dotenv()
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/Users/harshitawork/Documents/new-project/credentials.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = st.secrets["GEMINI_API"]['google_application_credentials']
 genai.configure()
 
 working_dir = os.path.dirname(os.path.abspath(__file__))
