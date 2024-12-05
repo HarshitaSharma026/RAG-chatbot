@@ -29,6 +29,7 @@ with NamedTemporaryFile(delete=False, suffix=".json") as temp_file:
     temp_file_path = temp_file.name
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = temp_file_path
+# os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "<absolute-path-of-credentials.json>"
 genai.configure()
 
 working_dir = os.path.dirname(os.path.abspath(__file__))
