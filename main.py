@@ -1,3 +1,7 @@
+__import__('pysqlite3')
+import sys
+import sqlite3
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import os
 import streamlit as st
 from tempfile import NamedTemporaryFile
@@ -13,6 +17,7 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from dotenv import load_dotenv
 
 load_dotenv()
+
 os.environ["LANGCHAIN_API_KEY"]=os.getenv("LANGCHAIN_API_KEY")
 os.environ["LANGCHAIN_TRACING_V2"]="true"
 google_credentials = st.secrets["gemini_api_credentials"]["gemini_credentials"]
@@ -29,7 +34,7 @@ genai.configure()
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
 def setup_vector_store():
-    persist_directory = f"{working_dir}/vector_db_dir"
+    persist_directory = f"{working_dir}/vector_db"
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
     vectorstore = Chroma(persist_directory=persist_directory,
     embedding_function = embeddings)

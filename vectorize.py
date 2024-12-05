@@ -23,7 +23,7 @@ text_chunks = text_splitter.split_documents(documents)
 vectordb = Chroma.from_documents(
     documents=text_chunks,
     embedding=embeddings,
-    persist_directory="./vector_db_dir"
+    persist_directory="./vector_db"
 )
 
 print("Documents vectorized !!")
