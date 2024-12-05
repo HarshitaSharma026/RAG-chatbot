@@ -1,5 +1,6 @@
 import os
 import streamlit as st
+from tempfile import NamedTemporaryFile
 from langchain_community.vectorstores import Chroma
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
 import google.generativeai as genai
@@ -12,7 +13,17 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from dotenv import load_dotenv
 
 load_dotenv()
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = st.secrets["GEMINI_API"]['google_application_credentials']
+os.environ["LANGCHAIN_API_KEY"]=os.getenv("LANGCHAIN_API_KEY")
+os.environ["LANGCHAIN_TRACING_V2"]="true"
+google_credentials = st.secrets["gemini_api_credentials"]["gemini_credentials"]
+
+# Create a temporary file to store the credentials
+with NamedTemporaryFile(delete=False, suffix=".json") as temp_file:
+    temp_file.write(google_credentials.encode('utf-8'))
+    temp_file.flush()
+    temp_file_path = temp_file.name
+
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = temp_file_path
 genai.configure()
 
 working_dir = os.path.dirname(os.path.abspath(__file__))
