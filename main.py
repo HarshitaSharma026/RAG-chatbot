@@ -29,7 +29,7 @@ os.environ["LANGCHAIN_TRACING_V2"]="true"
 #     temp_file_path = temp_file.name
 
 # os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = temp_file_path
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "credentials.json"
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "/etc/secrets/credentials.json"
 genai.configure()
 
 working_dir = os.path.dirname(os.path.abspath(__file__))
