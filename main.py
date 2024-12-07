@@ -92,8 +92,8 @@ def chat_chain(vectorstore):
     return rag_chain
 
 st.set_page_config(
-    page_title = "Multichat chatbot",
-    page_icon="📑",
+    page_title = "VIT Buddy",
+    page_icon="🤖",
     layout="centered"
 )
 
