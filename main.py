@@ -4,7 +4,7 @@ import sqlite3
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import os
 import streamlit as st
-from tempfile import NamedTemporaryFile
+# from tempfile import NamedTemporaryFile
 from langchain_community.vectorstores import Chroma
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
 import google.generativeai as genai
@@ -20,16 +20,16 @@ load_dotenv()
 
 os.environ["LANGCHAIN_API_KEY"]=os.getenv("LANGCHAIN_API_KEY")
 os.environ["LANGCHAIN_TRACING_V2"]="true"
-google_credentials = st.secrets["gemini_api_credentials"]["gemini_credentials"]
+# google_credentials = st.secrets["gemini_api_credentials"]["gemini_credentials"]
 
-# Create a temporary file to store the credentials
-with NamedTemporaryFile(delete=False, suffix=".json") as temp_file:
-    temp_file.write(google_credentials.encode('utf-8'))
-    temp_file.flush()
-    temp_file_path = temp_file.name
+# # Create a temporary file to store the credentials
+# with NamedTemporaryFile(delete=False, suffix=".json") as temp_file:
+#     temp_file.write(google_credentials.encode('utf-8'))
+#     temp_file.flush()
+#     temp_file_path = temp_file.name
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = temp_file_path
-# os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "<absolute-path-of-credentials.json>"
+# os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = temp_file_path
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "/Users/harshitawork/Documents/new-project/credentials.json"
 genai.configure()
 
 working_dir = os.path.dirname(os.path.abspath(__file__))
