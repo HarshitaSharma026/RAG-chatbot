@@ -2,9 +2,11 @@ streamlit
 python-dotenv
 google-generativeai
 langchain-chroma
-langchain-google-genai
-langchain-community
-langchain-core
+langchain_community
+langchain_core
 langchain-text-splitters
 chromadb
-pysqlite3
+bs4
+pypdf
+langchain_chroma
+langchain_google_genai
