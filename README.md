@@ -67,3 +67,5 @@ If you wish to go without tracing, go ahead and comment out line 21 and 22 in ma
 
 🎯**This is an ongoing project. I am actively learning and building side by side making it give more accurate answers. So feel free to contribute, report issues, or suggest enhancements to help improve its performance.
 
+
+💬 This project is licensed for non-commercial use only. If you're interested in using it commercially or collaborating on an open version, feel free to reach out!
