@@ -27,7 +27,7 @@ Each version is maintained in its own folder and can be tested independently.
 
 ## 🧪 Paper & Research
 
-To understand the advanced design choices in Prototype V2, refer to the research paper included in the [`/paper`](paper/) folder.  
+To understand the advanced design choices in Prototype V2, refer to the research paper included in the [`/paper`](./prototype_v2/paper/advanced_rag_academic_paper.pdf) folder.  
 > 📘 **Chapter 4: Design and Details** explains the logic and reasoning behind each enhancement.
 
 ---
@@ -48,12 +48,12 @@ In the mean time, go ahead, run and test each version as each can be executed se
 ---
 
 ## 👥 Contributions
-Interested in collaborating or adapting this for your own university? Feel free to raise an issue or fork the project. Licensing details are in the [LICENSE](LICENSE) file.
+Interested in collaborating or adapting this for your own university? Feel free to raise an issue or fork the project. Licensing details are in the [LICENSE](./LICENSE.txt) file.
 
 ---
 
 ## 📬 Contact
 
 For suggestions, academic collaboration, or freelance integration:
-**Email**: [your_email@example.com]  
-**GitHub**: [github.com/yourhandle]  
+**Email**: harshita026.sharma@gmail.com  
+**GitHub**: https://github.com/HarshitaSharma026
