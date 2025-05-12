@@ -1,0 +1,183 @@
+Academic Calendar(2024 - 2025)Fall Semester
+date: 17.06.2024-19.06.2024
+day: Monday-wednesday
+description: course wishlist registration by students
+
+date: 24.06.2024-01.07.2024
+day: Monday-monday
+description: course allocation and scheduling by schools
+
+date: 06.07.2024
+day: saturday
+description: course registration by students
+
+date: 15.07.2024
+day: monday
+description: commencement of fall semester 2024-25
+  
+date: 15.07.2.2024-17.07.2024 
+day: Monday-wednesday 
+description: course add/drop options to students
+
+date: 26.07.2024 
+day: friday 
+description: last date for the payment of re-registration fees
+
+date: 15.08.2024 
+day: thursday 
+description: independence day (holiday)      
+
+date: 25.08.2024-31.08.2024 
+day: sunday-saturday 
+description: continuous assessment test - 1 (CAT 1)
+
+date: 07.09.2024 
+description: vinayakar chathurithi (holiday)   
+
+date: 16.09.2024 
+day: monday 
+description: meelad-un-nabi (no instructional day)                       
+
+date: 16.09.2024-18.09.2024 
+day: monday-wednesday 
+description: course withdraw option for students 
+
+date: 27.09.2024-29.09.2024 
+day: friday-sunday 
+description: Gravitas'24
+
+date: 02.10.2024 
+day: wednesday 
+description: gandhi jayanthi (holiday)
+
+date: 11.10.2024 
+day: friday 
+description: ayutha poojs (holiday)
+
+date: 13.10.2024-19.10.2024 
+day: sunday-saturay 
+description: continous assessment test - 2 (CAT 2)
+
+date: 26.10.2024-03.11.2024 
+day: saturday - sunday 
+description: deepavali (holiday)
+
+date: 15.11.2024 
+day: friday 
+description: last instructional day / last working day for laboratory courses / components 
+
+date: 18.11.2024-22.11.2024 
+day: monday-friday 
+description: final assessment test (FAT) for laboratory classes         
+
+date: 22.11.2024 
+day: friday 
+description: last instructional day  / last working dayfor theory classes.                 
+
+date: 25.11.2024-10.12.2024 
+day: monday-tuesday 
+description: commencement of winter semester 2024-2025 (tentative)      
+
+date: 22.12.2024-05.01.2025 
+day: sunday-sunday 
+description: winter vacation for the students (tentative)
+
+
+Academic Calendar(2024 - 2025)Winter Semester
+Academic Calendar for Winter Semester 2024 - 25 (Applicable to the students of all the programmes except BSc. (Agri) & MBA)
+
+date: 09.10.2024 & 10.10.2024 
+day: Wednesday & Thursday 
+description: Course wish list registration by students
+
+date: 14.10.2024 - 29.10.2024 
+day: Monday to Tuesday 
+description: Course allocation and scheduling by Schools 
+
+date: 07.11.2024 
+day: Thursday 
+description: Mock - Course registration for Freshers
+
+date: 09.11.2024 
+day: Saturday 
+description: Course registration by students
+
+date: 13.12.2024 
+day: Friday 
+description: Commencement of Winter Semester 2024-25
+
+date: 13.12.2024-15.12.2024 
+day: Friday to Sunday 
+description: Course add/drop option for students
+
+date: 22.12.2024-01.01.2025 
+day: Sunday to Wednesday 
+description: Winter Vacation for the students (11 Days)
+
+date: 05.01.2025 
+day: Sunday 
+description: Last date for the payment of re-registration fees
+
+date: 14.01.2025 
+day: Tuesday 
+description: Pongal (Holiday)
+
+date: 27.01.2025-02.02.2025 
+day: Monday to Sunday 
+description: Continuous Assessment Test -1
+
+date: 20.02.2025-23.02.2025 
+day: Thursday to Sunday 
+description: Riviera 2025
+
+date: 24.02.2025-26.02.2025 
+day: Monday to Wednesday 
+description: Course withdraw option for students
+
+date: 14.03.2025 
+day: Friday 
+description: Holi (Holiday)
+
+date: 16.03.2025-22.03.2025 
+day: Sunday to Saturday 
+description: Continuous Assessment Test - II
+
+date: 30.03.2025 
+day: Sunday 
+description: Telugu New Year's Day
+
+date: 31.03.2025 
+day: Monday 
+description: Ramzan (No Instructional Day)
+
+date: 05.04.2025 
+day: Saturday 
+description: Last instructional day for laboratory classes
+
+date: 07.04.2025-11.04.2025 
+day: Monday to Friday 
+description: Final assessment test for laboratory courses/components
+
+date: 14.04.2025 
+day: Monday 
+description: Tamil New Year's Day/ Dr. B. R. Ambedkar Birthday(Holiday)
+
+date: 17.04.2025 
+day: Thursday 
+description: Last instructional day for theory classes
+
+date: 18.04.2025 
+day: Friday 
+description: Good Friday (No Instructional Day)
+
+date: 21.04.2025 
+day: Monday 
+description: Commencement of final assessment test for theorycourses / components
+
+date: 12.05.2025 
+day: Monday 
+description: Commencement of Summer Term 2024-25 (Tentative)
+
+date: 14.07.2025 
+day: Monday 
+description: Commencement of Fall Semester 2025-26 (Tentative)
