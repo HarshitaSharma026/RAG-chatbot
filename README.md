@@ -27,8 +27,8 @@ Each version is maintained in its own folder and can be tested independently.
 
 ## 🧪 Paper & Research
 
-To understand the advanced design choices in Prototype V2, refer to the research paper included in the [`/paper`](./prototype_v2/paper/advanced_rag_academic_paper.pdf) folder.  
-> 📘 **Chapter 4: Design and Details** explains the logic and reasoning behind each enhancement.
+To understand the advanced design choices in Prototype V2, refer to the full-length research paper included in the [`/full-length paper`](./paper/advanced_rag_academic_paper.pdf) folder, or refer to shorter version of document explaining thr gist of both versions of the chatbot here: [`/gist`](./paper/RAG_document.pdf)
+> 📘 **Chapter 4: Design and Details** in full-length paper, explains the logic and reasoning behind each enhancement.
 
 ---
 
@@ -36,7 +36,7 @@ To understand the advanced design choices in Prototype V2, refer to the research
 common/ - Shared utilities (vectorization, PDF-to-txt, etc.)
 prototype_v1/ - Basic RAG chatbot (first version)
 prototype_v2/ - Advanced RAG chatbot (second version)
-paper/ - Unpublished research paper for prototype 2
+paper/ - Unpublished research paper for prototype 2, and a short document explaining the gist of the project.
 requirements.txt - Python dependencies
 
 ---
