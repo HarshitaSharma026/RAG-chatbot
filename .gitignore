@@ -4,3 +4,4 @@ credentials.json
 trial_codes/
 .streamlit
 update_db
+.DS_Store
