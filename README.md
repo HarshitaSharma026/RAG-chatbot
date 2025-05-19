@@ -46,7 +46,7 @@ Here is the recorded explanation of the project: ([Video](https://www.linkedin.c
 ---
 
 ## 👥 Contributions
-Interested in collaborating or adapting this for your own university? Feel free to raise an issue or fork the project. Licensing details are in the [LICENSE](./LICENSE.txt) file.
+Interested in collaborating or adapting this for your own university? Feel free to raise an issue or fork the project. Licensing details are in the [LICENSE](./LICENSE.md) file.
 
 ---
 
