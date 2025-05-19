@@ -56,9 +56,22 @@ def reciprocal_rank_fusion(results: list[list], k = 60):
   ]
   return reranked_scores
 
+st.set_page_config(
+    page_title = "Edu Buddy",
+    page_icon="🤖",
+    layout="centered"
+)
 
-st.header('I am here to help you. Ask me anything.')
-st.title('Enhanced RAG chatbot')
+st.title('🎓 CampusAI - v2')
+
+with st.expander('Get your questions cleared in seconds with CampusAI'):
+    st.subheader('CampusAI - Version 2')
+    st.markdown(
+        """
+            This is the advanced RAG chatbot, which is much more accurate and provide to the point answers. More documents has been included.
+        """
+    )
+
 
 # defining history if its not already there
 if "chat_history" not in st.session_state:
@@ -69,7 +82,7 @@ for message in st.session_state.chat_history:
   with st.chat_message(message['role']):
     st.markdown(message['content'])
 
-user_input = st.chat_input('Ask me anything.')
+user_input = st.chat_input('How can I help you today?')
 if user_input:
   # display it on screen
   with st.chat_message('user'):
