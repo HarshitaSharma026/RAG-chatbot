@@ -42,9 +42,7 @@ requirements.txt - Python dependencies
 ---
 
 ## 📸 Demo & Usage
-A screen recorded explanation is on the way. 
-In the mean time, go ahead, run and test each version as each can be executed separately.
-
+Here is the recorded explanation of the project: ([Video](https://www.linkedin.com/feed/update/urn:li:activity:7329031871680389120/))
 ---
 
 ## 👥 Contributions
