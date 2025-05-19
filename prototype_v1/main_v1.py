@@ -75,12 +75,23 @@ def chat_chain(vectorstore):
     return rag_chain
 
 st.set_page_config(
-    page_title = "VIT Buddy",
+    page_title = "Edu Buddy",
     page_icon="🤖",
     layout="centered"
 )
 
-st.title("📑 Multi-document RAG chatbot")
+st.title("🎓 CampusAI - v1")
+
+with st.expander('Get your questions cleared in seconds with CampusAI'):
+    st.subheader('CampusAI - Version 1')
+    st.markdown(
+        """
+            This version is the basic RAG chatbot, that has given some basic documents, and only from those documents you can ask questions. It can answer questions from documents such as:
+            - Academic Calender
+            - Syallbus for mtech and mca
+            - Faculty details for one department
+        """
+    )
 
 # session state in streamlit
 # when the user is using the app, that time all the history will be stored there, but as soon as the user presses refresh the history of the last session will be lost and new session will be created.
